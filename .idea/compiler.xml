@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="components-data" />
+        <module name="components-excel" />
       </profile>
     </annotationProcessing>
   </component>

@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>components-data</module>
+        <module>components-excel</module>
     </modules>
 
     <properties>
